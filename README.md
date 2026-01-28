@@ -1,1 +1,3 @@
 # MAD2_HMS_project
+
+I have created a repository for the MAD-2 project, which extends the MAD-1 project with a more robust and scalable architecture. The project uses Vue.js for building a responsive and modular user interface, enabling better state management and a smooth user experience. Flask is used to develop lightweight and flexible REST APIs, while SQLite serves as the database for simple and efficient data persistence. To improve performance, Redis is used for caching frequently accessed data, reducing response time and server load. Additionally, Celery is integrated for handling background and asynchronous tasks, such as long-running operations, ensuring better scalability and responsiveness of the application.
